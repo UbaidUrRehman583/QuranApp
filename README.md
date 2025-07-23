@@ -30,4 +30,4 @@ A beautifully designed Quran application built using Jetpack Compose and modern 
 Clone the repo and open in Android Studio:
 
 ```bash
-git clone https://github.com/your-username/quran-app.git
+git clone https://github.com/UbaidUrRehman583/QuranApp.git
